@@ -14,7 +14,7 @@ twitter_username: jjorae
 #google_plus_username: your_google_plus_username_goes_here
 #linkedin_username: your_linked_in_username_goes_here
 #vine_username:  your_vine_username_goes_here
-instagram_username: _jjorae
+instagram_username: jjorae_
 #flickr_username: your_flickr_username_goes_here
 #steam_username: your_steam_username_goes_here
 #soundcloud_username:  your_soundcloud_username_goes_here
@@ -35,7 +35,7 @@ avatar: yes
 # automatically whenever you change your GitHub profile picture
 avatar_img_path: "https://avatars0.githubusercontent.com/u/6426851"
 
-front_img: no
+front_img: yes
 front_img_path: "imgs/background.jpg"
 #front_img_path: "https://external.url/image.jpg"
 
